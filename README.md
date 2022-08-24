@@ -6,6 +6,7 @@ Repo trello-test-automation
 pip3 install selenium
 sudo apt-get install firefox-geckodriver
 
+```to run the testcases run, python3  trello-test-automation/automation/testsuites/test_trello_ui.py ```
 
 ## Project structure
 
