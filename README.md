@@ -4,6 +4,8 @@ Repo trello-test-automation
 
 ## Packages to be installed
 pip3 install selenium
+sudo apt-get install firefox-geckodriver
+
 
 ## Project structure
 
@@ -13,11 +15,8 @@ branch master
 |_ automation
 |	|
 |	|
-|	|_ comm_utility (Utility classes)
+|	|_ comm_utility (Utility classes)(Contains Action classes)
 |   | 
-|	|_ screen_utility (Screen specific classes)
-|	|
-|	|_ expected_test_data
 |	|
 |	|_ testsuites ( test case scripts)
 |
