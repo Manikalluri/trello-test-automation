@@ -1,0 +1,119 @@
+******************************************************************************
+***     Script Name: test_trello_ui.py
+***     User Name:User
+***     Time script run :2022-08-24 22:22
+ 
+******************************************************************************
+ 
+ 
+ 
+ 
+######################################################
+### Total Number Of TestCases:1                    ###
+###################################################### 
+
+
+TESTCASE NAME:TestTrello.test1_verify_login
+
+
+Logging into trello
+
+
+Home Label after login is present
+PASS  :  Home Lable After Login verified
+Entered finally
+==============================================================================
+|||| TEST CASE RESULT : PASS
+==============================================================================
+
+
+******************************************************************************
+
+
+***                      Script  Run Summary                               ***
+
+
+***     Total No of Testcase: 1
+
+***     Total Testcase Passed: 1
+
+***     Total Testcase Failed: 0
+
+***     TestCase with no result: 0
+
+***     Start Time :2022-08-24 22:22
+***     End Time :2022-08-24 22:22
+
+******************************************************************************
+
+
+******************************************************************************
+***     Script Name: test_trello_ui.py
+***     User Name:User
+***     Time script run :2022-08-24 22:22
+ 
+******************************************************************************
+ 
+ 
+ 
+ 
+######################################################
+### Total Number Of TestCases:2                    ###
+###################################################### 
+
+
+TESTCASE NAME:TestTrello.test1_verify_login
+
+
+Logging into trello
+
+
+Home Label after login is present
+PASS  :  Home Lable After Login verified
+Entered finally
+==============================================================================
+|||| TEST CASE RESULT : PASS
+==============================================================================
+
+
+TESTCASE NAME:TestTrello.test2_verify_workspace_creation
+
+
+Logging into trello
+
+
+clicking on create button
+clicking on create workspace button
+Sending workspace Name
+Selecting Drop Down Menu
+clicking dismiss icon
+Workspace created Successfully
+Navigating to Home Page
+Workspace created successfully
+PASS  :  Workspace creation successfully verified
+Entered finally
+==============================================================================
+|||| TEST CASE RESULT : PASS
+==============================================================================
+
+
+******************************************************************************
+
+
+***                      Script  Run Summary                               ***
+
+
+***     Total No of Testcase: 2
+
+***     Total Testcase Passed: 2
+
+***     Total Testcase Failed: 0
+
+***     TestCase with no result: 0
+
+***     Start Time :2022-08-24 22:22
+***     End Time :2022-08-24 22:24
+
+******************************************************************************
+
+
