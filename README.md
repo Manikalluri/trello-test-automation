@@ -32,6 +32,6 @@ branch master
 ``` ResultReporter.py will prepare the result report```
 ``` trello_web_actions.py contains the web actions```
  
- '''testsuites''' contains teh feature testcases
+ '''testsuites''' contains the feature testcases
  
  '''UserConfig''' contains the environment details and user credentials
