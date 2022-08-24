@@ -20,5 +20,18 @@ branch master
 |	|
 |	|_ testsuites ( test case scripts)
 |
-|_ debug_logs (Python debug logs)
+|_ debug_logs (Python debug logs and Test Reports)
 ```
+
+'''comm_utility''' contains below files and 
+
+ ConfigParser.py is responsible for parsing the config file from UserConfig.ini
+ Constants.py is responsible for the Global constants
+ DriverUtility.py will initialize the web driver with firefox browser
+ Logger.py will do the logging for all actions
+ ResultReporter.py will prepare the result report
+ trello_web_actions.py contains the web actions
+ 
+ '''testsuites''' contains teh feature testcases
+ 
+ '''UserConfig''' contains the environment details and user credentials
