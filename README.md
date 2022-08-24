@@ -16,10 +16,10 @@ branch master
 |_ automation
 |	|
 |	|
-|	|_ comm_utility (Utility classes)(Contains Action classes)
+|	|_ comm_utility (Utility classes)(Contains Action classes and Verifications)
 |   | 
 |	|
-|	|_ testsuites ( test case scripts)
+|	|_ testsuites ( test case scripts (actual feature testacases))
 |
 |_ debug_logs (Python debug logs and Test Reports)
 ```
